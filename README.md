@@ -1,4 +1,4 @@
-pdrk
+pdrf
 ====
 
-Plasma Dispersion Relation Solver , Kinetic Version
+Plasma Dispersion Relation Solver , Fluid Version
